@@ -1,0 +1,4 @@
+timestamp,city,aqi,weather_icon,wind_speed,humidity
+2025-09-15T19:04:32.110087+07:00,Cần Thơ,44,/dl/assets/svg/weather/ic-weather-10n.svg,6.2 km/h,81%
+2025-09-15T19:36:57.574008+07:00,Cần Thơ,56,/dl/assets/svg/weather/ic-weather-10n.svg,6.2 km/h,81%
+2025-09-15T20:27:03.380686+07:00,Cần Thơ,55,/dl/assets/svg/weather/ic-weather-10n.svg,5.5 km/h,86%
