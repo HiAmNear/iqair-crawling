@@ -14,3 +14,4 @@ timestamp,city,aqi,weather_icon,wind_speed,humidity
 2025-09-16T06:20:32.392694+07:00,Vinh,117,/dl/assets/svg/weather/ic-weather-04d.svg,4.9 km/h,95%
 2025-09-16T08:46:08.547964+07:00,Vinh,160,/dl/assets/svg/weather/ic-weather-04d.svg,6 km/h,88%
 2025-09-16T10:00:27.495315+07:00,Vinh,156,/dl/assets/svg/weather/ic-weather-04d.svg,5.7 km/h,82%
+2025-09-16T10:35:17.380447+07:00,Vinh,69,/dl/assets/svg/weather/ic-weather-04d.svg,5.5 km/h,75%
