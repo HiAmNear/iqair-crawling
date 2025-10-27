@@ -28,6 +28,10 @@ jobs:
         
       - name: Run crawler
         run: python crawl_iqair.py
+
+      # --- merge_csv ---
+      - name: Run merge script
+        run: python scripts/merge_csv.py
       
       - name: Commit and push changes
         run: |
